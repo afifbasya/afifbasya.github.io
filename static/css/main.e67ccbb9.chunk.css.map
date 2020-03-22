@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,sCACF,CACA,SACE,eACF,CACA,YACE,eACF","file":"main.e67ccbb9.chunk.css","sourcesContent":["body {\n  font-family: 'Titillium Web', sans-serif\n}\n.heading {\n  font-weight: 700;\n}\n.subheading {\n  font-weight: 300;\n}"]}
