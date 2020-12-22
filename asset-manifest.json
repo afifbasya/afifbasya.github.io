@@ -1,24 +1,28 @@
 {
   "files": {
     "main.css": "/afifbasya.github.io/static/css/main.e67ccbb9.chunk.css",
-    "main.js": "/afifbasya.github.io/static/js/main.fa442013.chunk.js",
-    "main.js.map": "/afifbasya.github.io/static/js/main.fa442013.chunk.js.map",
+    "main.js": "/afifbasya.github.io/static/js/main.56c52536.chunk.js",
+    "main.js.map": "/afifbasya.github.io/static/js/main.56c52536.chunk.js.map",
     "runtime-main.js": "/afifbasya.github.io/static/js/runtime-main.c78ccca0.js",
     "runtime-main.js.map": "/afifbasya.github.io/static/js/runtime-main.c78ccca0.js.map",
     "static/css/2.de424728.chunk.css": "/afifbasya.github.io/static/css/2.de424728.chunk.css",
-    "static/js/2.e5b9e815.chunk.js": "/afifbasya.github.io/static/js/2.e5b9e815.chunk.js",
-    "static/js/2.e5b9e815.chunk.js.map": "/afifbasya.github.io/static/js/2.e5b9e815.chunk.js.map",
+    "static/js/2.f0ddb122.chunk.js": "/afifbasya.github.io/static/js/2.f0ddb122.chunk.js",
+    "static/js/2.f0ddb122.chunk.js.map": "/afifbasya.github.io/static/js/2.f0ddb122.chunk.js.map",
     "index.html": "/afifbasya.github.io/index.html",
-    "precache-manifest.fd4359e17eac677f8560adbf1effbcad.js": "/afifbasya.github.io/precache-manifest.fd4359e17eac677f8560adbf1effbcad.js",
+    "precache-manifest.3e78e3f9b9f1a488d6e6efef5eb93a05.js": "/afifbasya.github.io/precache-manifest.3e78e3f9b9f1a488d6e6efef5eb93a05.js",
     "service-worker.js": "/afifbasya.github.io/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/afifbasya.github.io/static/css/2.de424728.chunk.css.map",
     "static/css/main.e67ccbb9.chunk.css.map": "/afifbasya.github.io/static/css/main.e67ccbb9.chunk.css.map",
-    "static/js/2.e5b9e815.chunk.js.LICENSE.txt": "/afifbasya.github.io/static/js/2.e5b9e815.chunk.js.LICENSE.txt",
+    "static/js/2.f0ddb122.chunk.js.LICENSE.txt": "/afifbasya.github.io/static/js/2.f0ddb122.chunk.js.LICENSE.txt",
     "static/media/afif.webp": "/afifbasya.github.io/static/media/afif.c6b59ae8.webp",
+    "static/media/bahanbatik.webp": "/afifbasya.github.io/static/media/bahanbatik.5b09d8b8.webp",
     "static/media/cahaya.webp": "/afifbasya.github.io/static/media/cahaya.9f26cf26.webp",
     "static/media/cipta.webp": "/afifbasya.github.io/static/media/cipta.b1e42209.webp",
+    "static/media/cmsbafmobile.webp": "/afifbasya.github.io/static/media/cmsbafmobile.3d1f6269.webp",
+    "static/media/incentive.webp": "/afifbasya.github.io/static/media/incentive.26d76281.webp",
     "static/media/ojs.webp": "/afifbasya.github.io/static/media/ojs.59d4e377.webp",
     "static/media/pmb.webp": "/afifbasya.github.io/static/media/pmb.d42d9534.webp",
+    "static/media/sandia-merchant.webp": "/afifbasya.github.io/static/media/sandia-merchant.8dd823e7.webp",
     "static/media/simakad.webp": "/afifbasya.github.io/static/media/simakad.8145ed68.webp",
     "static/media/simkeu.webp": "/afifbasya.github.io/static/media/simkeu.4147c8bd.webp",
     "static/media/tracer.webp": "/afifbasya.github.io/static/media/tracer.392519dd.webp",
@@ -27,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.c78ccca0.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.e5b9e815.chunk.js",
+    "static/js/2.f0ddb122.chunk.js",
     "static/css/main.e67ccbb9.chunk.css",
-    "static/js/main.fa442013.chunk.js"
+    "static/js/main.56c52536.chunk.js"
   ]
 }
