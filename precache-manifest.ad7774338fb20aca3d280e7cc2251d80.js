@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8377a4d22b85a2a86056f2b4396b3239",
+    "revision": "adb964dc43b5e227f60f96132f005985",
     "url": "/afifbasya.github.io/index.html"
   },
   {
-    "revision": "312adba7d46a3e033f51",
+    "revision": "c3a6b68bdb0992206d17",
     "url": "/afifbasya.github.io/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "4912ca562d4e08516a07",
+    "revision": "532ebbaa155d5482f4cc",
     "url": "/afifbasya.github.io/static/css/main.e67ccbb9.chunk.css"
   },
   {
-    "revision": "312adba7d46a3e033f51",
-    "url": "/afifbasya.github.io/static/js/2.f0ddb122.chunk.js"
+    "revision": "c3a6b68bdb0992206d17",
+    "url": "/afifbasya.github.io/static/js/2.c4ed8d0a.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/afifbasya.github.io/static/js/2.f0ddb122.chunk.js.LICENSE.txt"
+    "url": "/afifbasya.github.io/static/js/2.c4ed8d0a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4912ca562d4e08516a07",
-    "url": "/afifbasya.github.io/static/js/main.56c52536.chunk.js"
+    "revision": "532ebbaa155d5482f4cc",
+    "url": "/afifbasya.github.io/static/js/main.31deb1b8.chunk.js"
   },
   {
     "revision": "0a5536dec6fa7220efb4",
